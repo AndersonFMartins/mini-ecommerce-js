@@ -21,7 +21,7 @@ Aplicação web de um mini e-commerce com listagem de produtos e carrinho de com
 * LocalStorage
 
 ## Preview
-
+[preview](https://andersonfmartins.github.io/mini-ecommerce-js/)
 
 
 ## Objetivo do projeto
